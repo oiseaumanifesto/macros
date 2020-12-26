@@ -781,24 +781,9 @@
     <gamelock devicemodel="Logitech.Gaming.Keyboard.G410">
       <disablekeys keys="231,227,101"/>
     </gamelock>
-    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
-      <mode shiftstate="1" color="#410000"/>
-      <mode shiftstate="2" color="#ffffff"/>
-      <mode shiftstate="3" color="#ffffff"/>
-    </backlight>
-    <backlight devicemodel="Logitech.Gaming.Mouse.G600">
-      <mode shiftstate="1" color="#ff0000"/>
-      <mode shiftstate="2" color="#ffffff"/>
-      <mode shiftstate="3" color="#00ff00"/>
-    </backlight>
-    <backlight devicemodel="Logitech.Gaming.Keyboard.G410">
-      <lightingsetting><![CDATA[{"CustomEffects":{"0":0,"effect_Id":"{b85c482d-9384-e226-638c-e924d65f73a2}","speed":30},"Effects":{"breathing/color":"#00dcff","breathing/speed":5000,"current":"wave","cycle/speed":16111,"echo/bg/color":"#000000","echo/fg/color":"#8000ff","echo/rate":150,"fixed/color":"#ac0000","star/count":12,"star/rate":32,"star/sky/color":"#000000","star/star/color":"#ffffff","wave/direction":1,"wave/speed":3316},"PerKey":{"0x1":{"0x10":"#ff00ff","0x11":"#660066","0x12":"#660066","0x13":"#660066","0x14":"#660066","0x15":"#660066","0x16":"#ff00ff","0x17":"#660066","0x18":"#660066","0x19":"#660066","0x1a":"#ff00ff","0x1b":"#660066","0x1c":"#660066","0x1d":"#ff00ff","0x1e":"#660066","0x1f":"#660066","0x20":"#660066","0x21":"#660066","0x22":"#660066","0x23":"#660066","0x24":"#660066","0x25":"#660066","0x26":"#660066","0x27":"#660066","0x28":"#ff00ff","0x29":"#660066","0x2a":"#660066","0x2b":"#ff00ff","0x2c":"#660066","0x2d":"#660066","0x2e":"#660066","0x2f":"#ff00ff","0x30":"#ff00ff","0x31":"#660066","0x32":"#00dcff","0x33":"#660066","0x34":"#660066","0x35":"#660066","0x36":"#660066","0x37":"#660066","0x38":"#660066","0x39":"#660066","0x3a":"#660066","0x3b":"#660066","0x3c":"#660066","0x3d":"#660066","0x3e":"#660066","0x3f":"#660066","0x4":"#ff00ff","0x40":"#660066","0x41":"#660066","0x42":"#660066","0x43":"#660066","0x44":"#660066","0x45":"#660066","0x46":"#660066","0x47":"#660066","0x48":"#660066","0x49":"#ff00ff","0x4a":"#660066","0x4b":"#660066","0x4c":"#ff00ff","0x4d":"#660066","0x4e":"#660066","0x4f":"#660066","0x5":"#660066","0x50":"#660066","0x51":"#660066","0x52":"#660066","0x6":"#660066","0x65":"#660066","0x7":"#ff00ff","0x8":"#660066","0x87":"#00dcff","0x88":"#00dcff","0x89":"#00dcff","0x8a":"#00dcff","0x8b":"#00dcff","0x9":"#660066","0xa":"#660066","0xb":"#660066","0xc":"#660066","0xd":"#660066","0xe":"#660066","0xe0":"#ff00ff","0xe1":"#ff00ff","0xe2":"#660066","0xe3":"#660066","0xe4":"#660066","0xe5":"#660066","0xe6":"#660066","0xe7":"#660066","0xf":"#660066"},"0x40":{"0x1":"#660066","0x2":"#660066"}},"Zone":{"selectedZone":"{e846efbf-89bb-4f21-b4d9-1ce21bf57768}","zones":{"{2aa879fb-1a6e-4f40-9ef5-dd9f1f8c30ec}":{"color":"#ff8000","name":"Default"},"{985ab4c8-cba1-4dc2-8432-8d02ac623186}":{"color":"#0000ff","keys":[{"id":"0x50","type":"0x1"},{"id":"0x4f","type":"0x1"},{"id":"0x52","type":"0x1"},{"id":"0x51","type":"0x1"}],"name":"Arrow Keys"},"{c92b9f78-e103-4a8e-bfd4-331d65aa152a}":{"color":"#00ff00","keys":[{"id":"0xe5","type":"0x1"},{"id":"0xe2","type":"0x1"},{"id":"0xe1","type":"0x1"},{"id":"0xe3","type":"0x1"},{"id":"0xe7","type":"0x1"},{"id":"0xe4","type":"0x1"},{"id":"0xe0","type":"0x1"},{"id":"0xe6","type":"0x1"},{"id":"0x65","type":"0x1"}],"name":"Modifiers"},"{d520a655-e6dd-4e34-9ed9-567fc7535fd8}":{"color":"#00dcff","keys":[{"id":"0x1","type":"0x40"},{"id":"0x2","type":"0x40"}],"name":"Indicators"},"{ddc81010-b337-43b0-905f-d2bd09e58894}":{"color":"#ffff00","keys":[{"id":"0x1e","type":"0x1"},{"id":"0x1f","type":"0x1"},{"id":"0x20","type":"0x1"},{"id":"0x25","type":"0x1"},{"id":"0x27","type":"0x1"},{"id":"0x26","type":"0x1"},{"id":"0x21","type":"0x1"},{"id":"0x22","type":"0x1"},{"id":"0x23","type":"0x1"},{"id":"0x24","type":"0x1"}],"name":"Numbers"},"{e5c1024a-1fc2-40d0-a934-cb7116dee284}":{"color":"#ff00ff","keys":[{"id":"0x3b","type":"0x1"},{"id":"0x3f","type":"0x1"},{"id":"0x3a","type":"0x1"},{"id":"0x44","type":"0x1"},{"id":"0x42","type":"0x1"},{"id":"0x3e","type":"0x1"},{"id":"0x40","type":"0x1"},{"id":"0x3d","type":"0x1"},{"id":"0x45","type":"0x1"},{"id":"0x3c","type":"0x1"},{"id":"0x41","type":"0x1"},{"id":"0x43","type":"0x1"}],"name":"Function Keys"},"{e846efbf-89bb-4f21-b4d9-1ce21bf57768}":{"color":"#ff0000","keys":[{"id":"0x16","type":"0x1"},{"id":"0x1a","type":"0x1"},{"id":"0x4","type":"0x1"},{"id":"0x7","type":"0x1"}],"name":"WASD"}}},"current":"PerKey","perProfile":true}]]></lightingsetting>
-    </backlight>
-    <backlight devicemodel="Logitech.Gaming.Mouse.G502RGB">
-      <lightingsetting><![CDATA[{"zones":{"1":{"color":"#ac0000","effectid":1,"intensity":0,"param":0,"rate":11000},"2":{"color":"#ac0000","effectid":1,"intensity":0,"param":0,"rate":11000}}}]]></lightingsetting>
-    </backlight>
     <script>function OnEvent(event, arg)
     OutputLogMessage("event = %s, arg = %s\n", event, arg)
 end</script>
   </profile>
 </profiles>
+<!--Macros by oiseaumanifesto @ github. MIT License.-->
