@@ -1,6 +1,6 @@
 ### One Handed AHK Scripts for Krita
 AHK scripts for a onehanded keyboard. The configurations for some of these functions are arbitrary and only work ebcause I've made them a real shortcut in Krita. You'll need to import or add the shortcuts manually to make the script work correctly:
-
+* Export File: Crtl+Alt+Shift+S
 * New Layer: Ctrl+Insert
 * Reset Canvas Rotation: Alt+0
 
