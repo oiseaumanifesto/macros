@@ -34,3 +34,5 @@ x::^Insert ;New Paint Layer
 c::^e ;Merge Layer
 v::[ ;Decrease Brush Size
 b::] ;Increase Brush Size
+
+; Script by oiseaumanifesto @ github. MIT License.
